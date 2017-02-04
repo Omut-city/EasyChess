@@ -1,7 +1,9 @@
 package ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao;
 
 /**
- * Created by alex on 03.02.17.
+ * @author Alexander Pyankov (alex)
+ * @version Alpha
+ * @date Initial record from 04.02.17
  */
 public enum Color {
     WHITE, BLACK;

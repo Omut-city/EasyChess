@@ -1,13 +1,13 @@
 package ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao;
 
-import ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao.implementation.ChessBoard;
-import ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao.implementation.ChessField;
+import ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao.implementation.*;
 
 import java.net.CookieHandler;
 
 /**
- * @author Alexander Pyankov
+ * @author Alexander Pyankov (alex)
  * @version Alpha
+ * @date Initial record from 04.02.17
  */
 public abstract class ChessMan implements Movements {
     private ChessField currentPosition;
@@ -22,9 +22,11 @@ public abstract class ChessMan implements Movements {
     public ChessMan (ChessBoard board, Coordinates coordinates, Color colorTeam, String name) {
         this.currentPosition = board.getChessField(coordinates);
         this.currentPosition.setChessFieldState(ChessFieldState.BUSY);
+        this.currentPosition.setFigure(this);
         this.name = name;
         this.colorTeam = colorTeam;
         this.stateFigure = ChessManState.ALIVE;
+        this.setTypeName(this.getClass().getSimpleName());
     }
 
     public Color getColorTeam() {

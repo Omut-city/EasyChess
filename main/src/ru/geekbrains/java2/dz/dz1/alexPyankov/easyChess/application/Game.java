@@ -1,8 +1,7 @@
 package ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.application;
 
-import ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao.Color;
-import ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao.implementation.ChessBoard;
-import ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao.implementation.Team;
+import ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao.*;
+import ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao.implementation.*;
 
 /**
  * @author Alexander Pyankov
@@ -19,11 +18,10 @@ public class Game {
         System.out.println();
         board.printBoard();
 
-
-
-
+        System.out.println(whiteTeam.currentAmountOfFigures());
+        System.out.println(whiteTeam.getTeam().get(15).getColorTeam() + " " + whiteTeam.getTeam().get(15).getName());
+        System.out.println(whiteTeam.getTeam().get(15).getCurrentPosition().getCoordinates().getVertical());
+        System.out.println(whiteTeam.getTeam().get(15).getCurrentPosition().getCoordinates().getHorizontal());
+        System.out.println(board.getChessField(new Coordinates(0, 0)).getChessFieldState());
     }
-
-
-
 }

@@ -1,11 +1,11 @@
 package ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao.implementation;
 
-import ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao.ChessMan;
-import ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao.Color;
-import ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao.Coordinates;
+import ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao.*;
 
 /**
- * Created by alex on 04.02.17.
+ * @author Alexander Pyankov (alex)
+ * @version Alpha
+ * @date Initial record from 04.02.17
  */
 public class King extends ChessMan {
     public King() {

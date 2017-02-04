@@ -1,6 +1,6 @@
 package ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao;
 
-import ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao.implementation.ChessField;
+import ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao.implementation.*;
 
 /**
  * @author Alexander Pyankov

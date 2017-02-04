@@ -1,11 +1,12 @@
 package ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao.implementation;
 
 import ru.geekbrains.java2.dz.dz1.alexPyankov.easyChess.dao.*;
-import java.util.ArrayList;
+import java.util.*;
 
 /**
- * @author Alexander Pyankov
+ * @author Alexander Pyankov (alex)
  * @version Alpha
+ * @date Initial record from 04.02.17
  */
 public class Team {
     private Color teamColor;
@@ -19,9 +20,9 @@ public class Team {
         this.team = new ArrayList<>();
         int horizontal = -1;
 
-        if (this.teamColor.equals(Color.BLACK))
+        if (this.teamColor.equals(Color.WHITE))
             horizontal = 1;
-        else
+        if (this.teamColor.equals(Color.BLACK))
             horizontal = 6;
 
         team.add (new Pawn   (board, new Coordinates(horizontal,0), teamColor, "First Pawn"));

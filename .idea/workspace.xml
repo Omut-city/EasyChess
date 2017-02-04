@@ -2,25 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce4a9283-a12a-448f-8a0f-711b872f8f3d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessMan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessManState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Coordinates.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Movements.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Bishop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Castle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/King.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Knight.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Queen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Team.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/src/com/omut/easyChess/dao/ChessFieldState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/src/com/omut/easyChess/dao/ChessMan.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/src/com/omut/easyChess/application/Game.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/application/Game.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/src/com/omut/easyChess/dao/Color.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Color.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/src/com/omut/easyChess/dao/State.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessFieldState.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/src/com/omut/easyChess/dao/implementation/ChessBoard.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/ChessBoard.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/src/com/omut/easyChess/dao/implementation/ChessField.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/ChessField.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/src/com/omut/easyChess/dao/implementation/Pawn.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Pawn.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/application/Game.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/application/Game.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessFieldState.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessFieldState.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessMan.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessMan.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Color.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Color.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Movements.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Movements.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Bishop.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Bishop.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Castle.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Castle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/ChessBoard.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/ChessBoard.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/ChessField.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/ChessField.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/King.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/King.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Knight.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Knight.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Pawn.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Pawn.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Queen.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Queen.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Team.java" afterPath="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Team.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,39 +30,33 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ChessMan.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessMan.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Knight.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Knight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#955#956#0" expanded="true" />
-                <element signature="e#987#988#0" expanded="true" />
-                <element signature="e#1036#1037#0" expanded="true" />
-                <element signature="e#1078#1079#0" expanded="true" />
-                <element signature="e#1123#1124#0" expanded="true" />
-                <element signature="e#1157#1158#0" expanded="true" />
-                <element signature="e#1218#1219#0" expanded="true" />
-                <element signature="e#1264#1265#0" expanded="true" />
-                <element signature="e#1294#1295#0" expanded="true" />
-                <element signature="e#1326#1327#0" expanded="true" />
-                <element signature="e#1365#1366#0" expanded="true" />
-                <element signature="e#1402#1403#0" expanded="true" />
-                <element signature="e#1433#1434#0" expanded="true" />
-                <element signature="e#1460#1461#0" expanded="true" />
-                <element signature="e#1500#1501#0" expanded="true" />
-                <element signature="e#1532#1533#0" expanded="true" />
-                <element signature="e#1567#1568#0" expanded="true" />
-                <element signature="e#1598#1599#0" expanded="true" />
-                <element signature="e#1646#1647#0" expanded="true" />
-                <element signature="e#1686#1687#0" expanded="true" />
-                <element signature="e#1732#1733#0" expanded="true" />
-                <element signature="e#1770#1771#0" expanded="true" />
-                <element signature="e#1836#1837#0" expanded="true" />
-                <element signature="e#1890#1891#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="61" lean-forward="false" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pawn.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Pawn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="61" lean-forward="false" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Queen.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Queen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="61" lean-forward="false" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -74,11 +64,29 @@
       <file leaf-file-name="Team.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Team.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-187">
-              <caret line="26" column="63" lean-forward="false" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-225">
+              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChessFieldState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessFieldState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChessMan.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessMan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="76" lean-forward="false" selection-start-line="2" selection-start-column="76" selection-end-line="2" selection-end-column="76" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -93,79 +101,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Castle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Castle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pawn.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Pawn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Knight.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Knight.java">
+      <file leaf-file-name="Color.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Color.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Queen.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Queen.java">
+      <file leaf-file-name="Coordinates.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Coordinates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="King.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/King.java">
+      <file leaf-file-name="Movements.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Movements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/application/Game.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChessBoard.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/ChessBoard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="61" column="22" lean-forward="false" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+            <state relative-caret-position="30">
+              <caret line="2" column="76" lean-forward="false" selection-start-line="2" selection-start-column="76" selection-end-line="2" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -197,21 +157,22 @@
         <option value="$PROJECT_DIR$/main/src/com/omut/easyChess/dao/Movements.java" />
         <option value="$PROJECT_DIR$/main/src/com/omut/easyChess/dao/ChessMan.java" />
         <option value="$PROJECT_DIR$/main/src/com/omut/easyChess/dao/implementation/Pawn.java" />
-        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Movements.java" />
         <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessManState.java" />
-        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessFieldState.java" />
         <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Coordinates.java" />
+        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Color.java" />
+        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessFieldState.java" />
         <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/ChessField.java" />
-        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/application/Game.java" />
-        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Pawn.java" />
-        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Bishop.java" />
-        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Castle.java" />
-        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Knight.java" />
-        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Queen.java" />
-        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/King.java" />
-        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessMan.java" />
-        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Team.java" />
         <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/ChessBoard.java" />
+        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Bishop.java" />
+        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/application/Game.java" />
+        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Castle.java" />
+        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/King.java" />
+        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Knight.java" />
+        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Pawn.java" />
+        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Queen.java" />
+        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Team.java" />
+        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessMan.java" />
+        <option value="$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Movements.java" />
       </list>
     </option>
   </component>
@@ -236,6 +197,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -346,8 +309,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -684,7 +645,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1368" height="743" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -695,20 +656,19 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34117648" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34117648" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34621212" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35151514" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990307" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990307" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -720,6 +680,7 @@
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -734,6 +695,99 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Knight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#301#302#0" expanded="false" />
+            <element signature="e#324#325#0" expanded="false" />
+            <element signature="e#590#591#0" expanded="false" />
+            <element signature="e#618#619#0" expanded="false" />
+            <element signature="e#684#685#0" expanded="false" />
+            <element signature="e#712#713#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessFieldState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Queen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="e#299#300#0" expanded="false" />
+            <element signature="e#322#323#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Pawn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/King.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/ChessField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/ChessBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Castle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Bishop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="71" lean-forward="false" selection-start-line="2" selection-start-column="60" selection-end-line="4" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/application/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessFieldState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -742,123 +796,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessFieldState.java">
+    <entry file="jar://$USER_HOME$/Downloads/jdk1.8.0_112/src.zip!/java/lang/Override.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        <state relative-caret-position="240">
+          <caret line="42" column="2" lean-forward="true" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/application/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="61" lean-forward="false" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Color.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Movements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Coordinates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-          <folding>
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#633#634#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/ChessField.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding>
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
-            <element signature="e#822#823#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#897#898#0" expanded="true" />
-            <element signature="e#948#949#0" expanded="true" />
-            <element signature="e#986#987#0" expanded="true" />
-            <element signature="e#1057#1058#0" expanded="true" />
-            <element signature="e#1111#1112#0" expanded="true" />
-            <element signature="e#1146#1147#0" expanded="true" />
-            <element signature="e#1175#1176#0" expanded="true" />
-            <element signature="e#1221#1222#0" expanded="true" />
-            <element signature="e#1257#1258#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Bishop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="135">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Castle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Queen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        <state relative-caret-position="30">
+          <caret line="2" column="61" lean-forward="false" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Knight.java">
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/ChessBoard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="900">
+          <caret line="62" column="30" lean-forward="false" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/ChessField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/King.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="61" lean-forward="false" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Knight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="61" lean-forward="false" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Pawn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="61" lean-forward="false" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Queen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="61" lean-forward="false" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Team.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessFieldState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessMan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="76" lean-forward="false" selection-start-line="2" selection-start-column="76" selection-end-line="2" selection-end-column="76" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -870,64 +907,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/Team.java">
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Color.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="26" column="63" lean-forward="false" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/ChessMan.java">
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Coordinates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#955#956#0" expanded="true" />
-            <element signature="e#987#988#0" expanded="true" />
-            <element signature="e#1036#1037#0" expanded="true" />
-            <element signature="e#1078#1079#0" expanded="true" />
-            <element signature="e#1123#1124#0" expanded="true" />
-            <element signature="e#1157#1158#0" expanded="true" />
-            <element signature="e#1218#1219#0" expanded="true" />
-            <element signature="e#1264#1265#0" expanded="true" />
-            <element signature="e#1294#1295#0" expanded="true" />
-            <element signature="e#1326#1327#0" expanded="true" />
-            <element signature="e#1365#1366#0" expanded="true" />
-            <element signature="e#1402#1403#0" expanded="true" />
-            <element signature="e#1433#1434#0" expanded="true" />
-            <element signature="e#1460#1461#0" expanded="true" />
-            <element signature="e#1500#1501#0" expanded="true" />
-            <element signature="e#1532#1533#0" expanded="true" />
-            <element signature="e#1567#1568#0" expanded="true" />
-            <element signature="e#1598#1599#0" expanded="true" />
-            <element signature="e#1646#1647#0" expanded="true" />
-            <element signature="e#1686#1687#0" expanded="true" />
-            <element signature="e#1732#1733#0" expanded="true" />
-            <element signature="e#1770#1771#0" expanded="true" />
-            <element signature="e#1836#1837#0" expanded="true" />
-            <element signature="e#1890#1891#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/application/Game.java">
+    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/Movements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/ru/geekbrains/java2/dz/dz1/alexPyankov/easyChess/dao/implementation/ChessBoard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="61" column="22" lean-forward="false" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+        <state relative-caret-position="30">
+          <caret line="2" column="76" lean-forward="false" selection-start-line="2" selection-start-column="76" selection-end-line="2" selection-end-column="76" />
           <folding />
         </state>
       </provider>
